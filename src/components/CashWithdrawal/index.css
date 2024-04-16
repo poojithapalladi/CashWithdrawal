@@ -1,0 +1,41 @@
+.app-container {
+  background-color: #150b3e;
+  display: flex;
+  flex-direction: column;
+}
+.heading {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.denomination-item-container {
+  background-color: #382f5a;
+  display: flex;
+  flex-direction: column;
+  border-radius: 4px;
+}
+.balance-title {
+  color: #585076;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+.paragraph {
+  color: #585076;
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+.withdraw-title {
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+}
+.update-btn {
+  color: #d4d2db;
+  background-color: #382f5a;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: bold;
+  outline: none;
+  cursor: pointer;
+}
